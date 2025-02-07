@@ -1,6 +1,6 @@
 # Simulating sea shell patterns and fractal pendula 
 
-This is a collection of interactive simulations developed for a workshop held during several open-door events at the Physics Institute of the University of Cologne.  
+This is a collection of interactive simulations developed for a workshop held during several [open-door](https://ml4q.de/2023/10/06/quantenphysik-begeistert-familien-bei-turen-auf-mit-der-maus-in-der-kolner-physik/) [events](https://ml4q.de/2024/03/04/schnupperuni-physik-beautiful-things-one-can-do-with-theoretical-physics/) at the Physics Institute of the University of Cologne.  
 
 The workshop aimed to showcase how programming is a valuable everyday tool for physicists and to spark interest in (computational) physics. It was designed for children aged 10 to 14.  
 
