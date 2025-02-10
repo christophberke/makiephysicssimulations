@@ -131,7 +131,8 @@ set_theme!(final_theme)
 fig = Figure(backgroundcolor = cmap[1], size = (1600, 900))
 
 # Add example images of sea shell patterns and a title.
-imshell = rotr90(load("seashells.png"))
+isdir("makiephysicssimulations") ? path="makiephysicssimulations/" : path=""
+imshell = rotr90(load(path*"seashells.png"))
 aximag = Axis(fig[1,1:4], tellheight = true, 
     halign = :right, aspect = DataAspect())
 image!(aximag, imshell)
